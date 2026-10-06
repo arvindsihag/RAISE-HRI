@@ -2,7 +2,7 @@
 
 **Reliability and Safety in Industrial Human–Robot Interaction Environments**
 
-Supporting repository for the HRI 2027 Industry White Paper:
+Supporting repository for the iHRI:
 
 > **Reliability First: Lessons from Industrial HRI in High-Stakes Environments**
 
@@ -63,13 +63,10 @@ The central idea is intentionally asymmetric: **higher-level interaction innovat
 
 **Reviewers:** Overview → Four transferable lessons → Evidence map → Figures.
 
-## Citation
-
-If you use the repository, please cite the associated white paper. A machine-readable citation template is provided in [`CITATION.cff`](CITATION.cff).
 
 ## Status
 
-This repository is designed as supporting material for an HRI 2027 Industry White Paper. It is a living practitioner resource and may evolve as additional deployment evidence and examples are added.
+This repository is designed to support Industrial HRI practitioners. It is a living practitioner resource and may evolve as additional deployment evidence and examples are added.
 
 ## License
 
