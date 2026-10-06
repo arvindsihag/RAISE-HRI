@@ -39,7 +39,7 @@ The goal is **calibrated reliance**:
 
 ## Relation to the paper
 
-The white paper connects foundational trust research with industrial survey evidence showing that acceptance varies substantially by task. The practical implication is that “increase trust” is too vague to be a deployment objective.
+The paper connects foundational trust research with industrial survey evidence showing that acceptance varies substantially by task. The practical implication is that “increase trust” is too vague to be a deployment objective.
 
 ## Practical resource
 
