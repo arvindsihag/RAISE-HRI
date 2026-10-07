@@ -23,20 +23,19 @@ RAISE-HRI organizes these issues around four transferable lessons:
 
 | Path | Purpose |
 |---|---|
-| [`docs/01-overview.md`](docs/01-overview.md) | Paper scope, motivation, and RAISE-HRI framing |
 | [`Overview`](docs/01-overview.md) | Paper scope, motivation, and RAISE-HRI framing |
-| [`docs/02-reliability-imperative.md`](docs/02-reliability-imperative.md) | Why reliability dominates design decisions in high-stakes deployment |
-| [`docs/03-multi-operator-challenge.md`](docs/03-multi-operator-challenge.md) | Multi-role workflows, authority, information needs, and coordination |
-| [`docs/04-trust-across-stakeholders.md`](docs/04-trust-across-stakeholders.md) | Role- and task-dependent trust |
-| [`docs/05-four-transferable-lessons.md`](docs/05-four-transferable-lessons.md) | The four lessons in compact practitioner form |
-| [`docs/06-high-stakes-deployment.md`](docs/06-high-stakes-deployment.md) | What makes an HRI environment high-stakes |
-| [`practitioner/deployment-checklist.md`](practitioner/deployment-checklist.md) | Reliability-first deployment checklist |
-| [`practitioner/stakeholder-map.md`](practitioner/stakeholder-map.md) | Template for identifying roles, authority, and information needs |
-| [`practitioner/trust-calibration.md`](practitioner/trust-calibration.md) | Trust-calibration worksheet |
-| [`practitioner/failure-review.md`](practitioner/failure-review.md) | Structured post-deployment failure review |
-| [`practitioner/readiness-scorecard.md`](practitioner/readiness-scorecard.md) | Qualitative deployment-readiness scorecard |
-| [`figures/README.md`](figures/README.md) | Figure concepts and generation prompts |
-| [`references/evidence-map.md`](references/evidence-map.md) | Mapping from key references to claims in the paper |
+| [`Reliability Imperative`](docs/02-reliability-imperative.md) | Why reliability dominates design decisions in high-stakes deployment |
+| [`Multi Operator Challenge`](docs/03-multi-operator-challenge.md) | Multi-role workflows, authority, information needs, and coordination |
+| [`Trust Across Stakeholders`](docs/04-trust-across-stakeholders.md) | Role- and task-dependent trust |
+| [`Four Transferable Lessons`](docs/05-four-transferable-lessons.md) | The four lessons in compact practitioner form |
+| [`High Stakes Deployment`](docs/06-high-stakes-deployment.md) | What makes an HRI environment high-stakes |
+| [`Deployment Checklist`](practitioner/deployment-checklist.md) | Reliability-first deployment checklist |
+| [`Practitioner Stakeholder-map`](practitioner/stakeholder-map.md) | Template for identifying roles, authority, and information needs |
+| [`Trust Calibration`](practitioner/trust-calibration.md) | Trust-calibration worksheet |
+| [`Failure Review`](practitioner/failure-review.md) | Structured post-deployment failure review |
+| [`Readiness Scorecard`](practitioner/readiness-scorecard.md) | Qualitative deployment-readiness scorecard |
+| [`README`](figures/README.md) | Figure concepts and generation prompts |
+| [`Evidence-map`](references/evidence-map.md) | Mapping from key references to claims in the paper |
 | [`paper/`](paper/) | Manuscript source snapshot and bibliography |
 
 ## RAISE-HRI at a glance
