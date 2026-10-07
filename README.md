@@ -24,6 +24,7 @@ RAISE-HRI organizes these issues around four transferable lessons:
 | Path | Purpose |
 |---|---|
 | [`docs/01-overview.md`](docs/01-overview.md) | Paper scope, motivation, and RAISE-HRI framing |
+| [`Overview`](docs/01-overview.md) | Paper scope, motivation, and RAISE-HRI framing |
 | [`docs/02-reliability-imperative.md`](docs/02-reliability-imperative.md) | Why reliability dominates design decisions in high-stakes deployment |
 | [`docs/03-multi-operator-challenge.md`](docs/03-multi-operator-challenge.md) | Multi-role workflows, authority, information needs, and coordination |
 | [`docs/04-trust-across-stakeholders.md`](docs/04-trust-across-stakeholders.md) | Role- and task-dependent trust |
@@ -61,7 +62,7 @@ The central idea is intentionally asymmetric: **higher-level interaction innovat
 
 **Industry practitioners:** Deployment checklist → Stakeholder map → Trust calibration → Failure review.
 
-**Reviewers:** Overview → Four transferable lessons → Evidence map → Figures.
+**Foundation Readers:** Overview → Four transferable lessons → Evidence map → Figures.
 
 
 ## Status
