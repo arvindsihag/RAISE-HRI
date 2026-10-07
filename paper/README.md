@@ -1,19 +1,15 @@
-# Paper Source
+# Paper Availability Notice
 
-This folder contains a snapshot of the manuscript and bibliography used while building RAISE-HRI.
+> **Paper will be available after acceptance.**
 
-- [`whitepaper.tex`](whitepaper.tex)
-- [`references.bib`](references.bib)
+---
 
-## Important before submission
+## Note
 
-The source snapshot may still contain draft-era citation keys or repository URLs. Before HRI 2027 submission, verify:
+The full paper is currently under review. Once it is accepted for publication, it will be made available here.
 
-- the supporting-material URL points to the final `RAISE-HRI` GitHub repository;
-- obsolete citation keys have been replaced;
-- all cited keys exist in `references.bib`;
-- uncited references are intentionally retained or removed;
-- acknowledgments match the authors' final wording;
-- the ACM/HRI 2027 formatting and anonymization requirements are satisfied.
+Please check back later for updates.
 
-The repository documentation is organized around the **intended final argument** rather than preserving every sentence of the draft snapshot.
+---
+
+*Thank you for your interest.*
