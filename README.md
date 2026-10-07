@@ -36,7 +36,7 @@ RAISE-HRI organizes these issues around four transferable lessons:
 | [`Readiness Scorecard`](practitioner/readiness-scorecard.md) | Qualitative deployment-readiness scorecard |
 | [`README`](figures/README.md) | Figure concepts and generation prompts |
 | [`Evidence-map`](references/evidence-map.md) | Mapping from key references to claims in the paper |
-| [`paper/`](paper/) | Manuscript source snapshot and bibliography |
+| [`Paper`](paper/) | Manuscript source |
 
 ## RAISE-HRI at a glance
 
