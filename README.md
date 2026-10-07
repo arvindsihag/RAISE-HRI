@@ -66,7 +66,7 @@ The central idea is intentionally asymmetric: **higher-level interaction innovat
 
 ## Status
 
-This repository is designed to support Industrial HRI practitioners. It is a living practitioner resource and may evolve as additional deployment evidence and examples are added.
+This repository is designed to support Industrial HRI practitioners. It is a practitioner resource and may evolve as additional deployment evidence and examples are added.
 
 ## License
 
